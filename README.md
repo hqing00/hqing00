@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me
+
+Hi, Hui Qing here!✌🏻
+
+📊 Data Enthusiast - Passionate about turning data into insights, driven by curiosity and continuous learning  
+🌱 Ex-Anti Money Laundering Analyst | Ex-Data Intern  
+🔭 I'm currently studying Master of Data Science @ UM  
+⚡ Bachelor of Science Economics, minor in strategic decision making @ UUM  
+💬 Traveling✈️, learning📖, sleeping💤  
 
 <!--
 **hqing00/hqing00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
